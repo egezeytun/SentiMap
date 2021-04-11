@@ -6,8 +6,8 @@ SentiMap applies sentiment analysis tools to the Municipality's call center data
 Model Accuracy : %79 avg recall ( Successful compared to Multimonial Naive Bayes Base Model Accuracy (%68) )
 
 References :
-For Model : Understand Tweets Better with Bert Sentiment Analysis - Abdüllatif Köksal IMDB sentiment analysis with BERT and ktrain Github Project - Arun S. Maiya
-For Pre Processing : Yemeksepeti Sentiment Analysis Kaggle Project - Ege Baştürk
-For Evaluation & Metrics : Understand Tweets Better with Bert Sentiment Analysis - Abdüllatif Köksal
+- For Model : Understand Tweets Better with Bert Sentiment Analysis - Abdüllatif Köksal IMDB sentiment analysis with BERT and ktrain Github Project - Arun S. Maiya
+- For Pre Processing : Yemeksepeti Sentiment Analysis Kaggle Project - Ege Baştürk
+- For Evaluation & Metrics : Understand Tweets Better with Bert Sentiment Analysis - Abdüllatif Köksal
 
 
