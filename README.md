@@ -1,7 +1,7 @@
 ![2](https://user-images.githubusercontent.com/74407354/114306120-78cebb00-9ae3-11eb-88d3-827ae1728f7b.png)
 
 Sentimap is an NLP project developed by Yesim Ipek, Busra Oner, Didar Tutan, and Ege Zeytun.
-SentiMap applies sentiment analysis tools to the Municipality's call center data, measures residents' satisfaction levels with public services across counties, detects services that are in need of improvement, and increases the Municipality's rapport with Istanbul's residents. Findings are showed on interactive maps.
+SentiMap applies sentiment analysis tools to the Municipality's call center data, measures residents' satisfaction levels with public services across counties, detects services that are in need of improvement, and increases the Municipality's rapport with Istanbul's residents. Findings are showed on dynamic maps.
 
 Model Accuracy : %79 avg recall (Successful compared to Multimonial Naive Bayes Base Model Accuracy (%68))
 
